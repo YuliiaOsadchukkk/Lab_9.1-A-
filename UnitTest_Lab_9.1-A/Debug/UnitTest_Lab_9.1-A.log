@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest_Lab_9.1-A.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Лабораторна 9.1\Lab_9.1\UnitTest_Lab_9.1-A\UnitTest_Lab_9.1-A.cpp(29,1): error C2660: 'Mat_5': function does not take 2 arguments
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Лабораторна 9.1\Lab_9.1\Lab_9.1\Source.cpp(73,6): message : see declaration of 'Mat_5'
